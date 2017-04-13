@@ -478,3 +478,23 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#pricing-table2-4 .mbr-plan-header,
+#pricing-table2-4 .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-4 ul,
+#pricing-table2-4 .mbr-plan-title,
+#pricing-table2-4 .mbr-price-value,
+#pricing-table2-4 .mbr-price-figure,
+#pricing-table2-4 .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-4 .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-4 .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#features1-3 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
